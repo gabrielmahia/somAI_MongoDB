@@ -1,6 +1,6 @@
 # Test Environment for Learn MongoDB 4.x
 
-Here are the instructions for the test environment that serves for chapters 3 to 12. There are separate instructions, in the book, for testing MongoDB installation (chapter 2). Also, see chapter 13 for instructions on setting up a test environment to model a replica set. See chapter 14 for instructions on setting up a test environment to model a sharded cluster.
+Learning MongoDB 4.0 via Test environment
 
 ## Set up your host computer
 * Install `git`
